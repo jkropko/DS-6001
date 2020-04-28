@@ -1,0 +1,1621 @@
+location_id,country,province,region_1,region_2
+1,Argentina,Mendoza Province,Agrelo,NA
+2,Argentina,Mendoza Province,Altos de Mendoza,NA
+3,Argentina,Mendoza Province,La Consulta,NA
+4,Argentina,Mendoza Province,Luján de Cuyo,NA
+5,Argentina,Mendoza Province,Maipú,NA
+6,Argentina,Mendoza Province,Medrano,NA
+7,Argentina,Mendoza Province,Mendoza,NA
+8,Argentina,Mendoza Province,Perdriel,NA
+9,Argentina,Mendoza Province,San Carlos,NA
+10,Argentina,Mendoza Province,San Rafael,NA
+11,Argentina,Mendoza Province,Tupungato,NA
+12,Argentina,Mendoza Province,Uco Valley,NA
+13,Argentina,Mendoza Province,Valle de Uco,NA
+14,Argentina,Mendoza Province,Vista Flores,NA
+15,Argentina,Mendoza Province,NA,NA
+16,Argentina,Other,Alto Valle del Río Negro,NA
+17,Argentina,Other,Argentina,NA
+18,Argentina,Other,Buenos Aires,NA
+19,Argentina,Other,Cafayate,NA
+20,Argentina,Other,Calchaquí Valley,NA
+21,Argentina,Other,Catamarca,NA
+22,Argentina,Other,Famatina Valley,NA
+23,Argentina,Other,Jujuy,NA
+24,Argentina,Other,La Rioja,NA
+25,Argentina,Other,Neuquén,NA
+26,Argentina,Other,Patagonia,NA
+27,Argentina,Other,Pedernal Valley,NA
+28,Argentina,Other,Río Negro Valley,NA
+29,Argentina,Other,Salta,NA
+30,Argentina,Other,San Juan,NA
+31,Argentina,Other,Tulum Valley,NA
+32,Argentina,Other,Zonda Valley,NA
+33,Armenia,Armenia,NA,NA
+34,Australia,Australia Other,Australia,NA
+35,Australia,Australia Other,Australia-New Zealand,NA
+36,Australia,Australia Other,Central Ranges,NA
+37,Australia,Australia Other,South Eastern Australia,NA
+38,Australia,New South Wales,Gundagai,NA
+39,Australia,New South Wales,Hilltops,NA
+40,Australia,New South Wales,Hunter Valley,NA
+41,Australia,New South Wales,Mudgee,NA
+42,Australia,New South Wales,New South Wales,NA
+43,Australia,New South Wales,Orange,NA
+44,Australia,New South Wales,Riverina,NA
+45,Australia,New South Wales,Southern Highlands,NA
+46,Australia,New South Wales,Tumbarumba,NA
+47,Australia,New South Wales,Western Plains,NA
+48,Australia,South Australia,Adelaide,NA
+49,Australia,South Australia,Adelaide Hills,NA
+50,Australia,South Australia,Adelaide Plains,NA
+51,Australia,South Australia,Barossa,NA
+52,Australia,South Australia,Barossa Valley,NA
+53,Australia,South Australia,Barossa-Adelaide Hills,NA
+54,Australia,South Australia,Barossa-Langhorne Creek,NA
+55,Australia,South Australia,Clare Valley,NA
+56,Australia,South Australia,Clare Valley-Coonawarra,NA
+57,Australia,South Australia,Clare Valley-Eden Valley,NA
+58,Australia,South Australia,Clarendon,NA
+59,Australia,South Australia,Coonawarra,NA
+60,Australia,South Australia,Currency Creek,NA
+61,Australia,South Australia,Currency Creek-McLaren Vale,NA
+62,Australia,South Australia,Eden Valley,NA
+63,Australia,South Australia,Fleurieu Peninsula,NA
+64,Australia,South Australia,Henty,NA
+65,Australia,South Australia,Kangaroo Island,NA
+66,Australia,South Australia,Langhorne Creek,NA
+67,Australia,South Australia,Langhorne Creek-Limestone Coast,NA
+68,Australia,South Australia,Lenswood,NA
+69,Australia,South Australia,Limestone Coast,NA
+70,Australia,South Australia,McLaren Vale,NA
+71,Australia,South Australia,McLaren Vale-Adelaide Hills,NA
+72,Australia,South Australia,McLaren Vale-Langhorne Creek,NA
+73,Australia,South Australia,McLaren Vale-Padthaway,NA
+74,Australia,South Australia,Padthaway,NA
+75,Australia,South Australia,Piccadilly Valley,NA
+76,Australia,South Australia,Riverland,NA
+77,Australia,South Australia,South Australia,NA
+78,Australia,South Australia,Southern Fleurieu,NA
+79,Australia,South Australia,Southern Flinders Ranges,NA
+80,Australia,South Australia,Wrattonbully,NA
+81,Australia,South Australia,NA,NA
+82,Australia,Tasmania,Tasmania,NA
+83,Australia,Victoria,Alpine Valleys,NA
+84,Australia,Victoria,Beechworth,NA
+85,Australia,Victoria,Bendigo,NA
+86,Australia,Victoria,Central Victoria,NA
+87,Australia,Victoria,Geelong,NA
+88,Australia,Victoria,Gippsland,NA
+89,Australia,Victoria,Goulburn Valley,NA
+90,Australia,Victoria,Grampians,NA
+91,Australia,Victoria,Heathcote,NA
+92,Australia,Victoria,King Valley,NA
+93,Australia,Victoria,Mornington Peninsula,NA
+94,Australia,Victoria,Murray-Darling,NA
+95,Australia,Victoria,Nagambie Lakes,NA
+96,Australia,Victoria,Pyrenees,NA
+97,Australia,Victoria,Rutherglen,NA
+98,Australia,Victoria,Strathbogie Ranges,NA
+99,Australia,Victoria,Swan Hill,NA
+100,Australia,Victoria,Victoria,NA
+101,Australia,Victoria,Yarra Valley,NA
+102,Australia,Western Australia,Frankland River,NA
+103,Australia,Western Australia,Geographe,NA
+104,Australia,Western Australia,Great Southern,NA
+105,Australia,Western Australia,Margaret River,NA
+106,Australia,Western Australia,Mount Barker,NA
+107,Australia,Western Australia,Mount Barker & Margaret River,NA
+108,Australia,Western Australia,Pemberton,NA
+109,Australia,Western Australia,Western Australia,NA
+110,Austria,Austria,NA,NA
+111,Austria,Burgenland,NA,NA
+112,Austria,Carnuntum,NA,NA
+113,Austria,Eisenberg,NA,NA
+114,Austria,Kamptal,NA,NA
+115,Austria,Kremstal,NA,NA
+116,Austria,Leithaberg,NA,NA
+117,Austria,Mittelburgenland,NA,NA
+118,Austria,Neusiedlersee,NA,NA
+119,Austria,Niederösterreich,NA,NA
+120,Austria,Österreichischer Perlwein,NA,NA
+121,Austria,Österreichischer Sekt,NA,NA
+122,Austria,Steiermark,NA,NA
+123,Austria,Südburgenland,NA,NA
+124,Austria,Südoststeiermark,NA,NA
+125,Austria,Südsteiermark,NA,NA
+126,Austria,Thermenregion,NA,NA
+127,Austria,Traisental,NA,NA
+128,Austria,Vienna,NA,NA
+129,Austria,Wachau,NA,NA
+130,Austria,Wagram,NA,NA
+131,Austria,Wagram-Donauland,NA,NA
+132,Austria,Weinland Österreich,NA,NA
+133,Austria,Weinviertel,NA,NA
+134,Austria,Wiener Gemischter Satz,NA,NA
+135,Bosnia and Herzegovina,Mostar,NA,NA
+136,Brazil,Brazil,NA,NA
+137,Brazil,Campanha,NA,NA
+138,Brazil,Pinto Bandeira,NA,NA
+139,Brazil,Santa Catarina,NA,NA
+140,Brazil,Serra do Sudeste,NA,NA
+141,Brazil,Serra Gaúcha,NA,NA
+142,Brazil,Vale dos Vinhedos,NA,NA
+143,Brazil,Vale Trentino,NA,NA
+144,Bulgaria,Black Sea Coastal,NA,NA
+145,Bulgaria,Bulgaria,NA,NA
+146,Bulgaria,Danube River Plains,NA,NA
+147,Bulgaria,Thracian Valley,NA,NA
+148,Canada,British Columbia,British Columbia,NA
+149,Canada,British Columbia,Okanagan Valley,NA
+150,Canada,British Columbia,Similkameen Valley,NA
+151,Canada,Canada Other,Canada,NA
+152,Canada,Ontario,Beamsville Bench,NA
+153,Canada,Ontario,Lake Erie North Shore,NA
+154,Canada,Ontario,Niagara Escarpment,NA
+155,Canada,Ontario,Niagara Peninsula,NA
+156,Canada,Ontario,Niagara-On-The-Lake,NA
+157,Canada,Ontario,Prince Edward County,NA
+158,Canada,Ontario,Short Hills Bench,NA
+159,Canada,Ontario,St. David's Bench,NA
+160,Chile,Aconcagua Costa,NA,NA
+161,Chile,Aconcagua Valley,NA,NA
+162,Chile,Apalta,NA,NA
+163,Chile,Bío Bío Valley,NA,NA
+164,Chile,Buin,NA,NA
+165,Chile,Cachapoal Valley,NA,NA
+166,Chile,Casablanca & Leyda Valleys,NA,NA
+167,Chile,Casablanca Valley,NA,NA
+168,Chile,Casablanca-Curicó Valley,NA,NA
+169,Chile,Cauquenes Valley,NA,NA
+170,Chile,Central Valley,NA,NA
+171,Chile,Chile,NA,NA
+172,Chile,Choapa Valley,NA,NA
+173,Chile,Coelemu,NA,NA
+174,Chile,Colchagua Costa,NA,NA
+175,Chile,Colchagua Valley,NA,NA
+176,Chile,Curicó and Leyda Valleys,NA,NA
+177,Chile,Curicó and Maipo Valleys,NA,NA
+178,Chile,Curicó Valley,NA,NA
+179,Chile,Elqui Valley,NA,NA
+180,Chile,Itata Valley,NA,NA
+181,Chile,Leyda Valley,NA,NA
+182,Chile,Leyda Valley-Maipo Valley,NA,NA
+183,Chile,Limarí Valley,NA,NA
+184,Chile,Lolol Valley,NA,NA
+185,Chile,Loncomilla Valley,NA,NA
+186,Chile,Lontué Valley,NA,NA
+187,Chile,Maipo Valley,NA,NA
+188,Chile,Maipo Valley-Colchagua Valley,NA,NA
+189,Chile,Malleco,NA,NA
+190,Chile,Marchigue,NA,NA
+191,Chile,Maule Valley,NA,NA
+192,Chile,Molina,NA,NA
+193,Chile,Peumo,NA,NA
+194,Chile,Pirque,NA,NA
+195,Chile,Puente Alto,NA,NA
+196,Chile,Rapel Valley,NA,NA
+197,Chile,Requinoa,NA,NA
+198,Chile,Rio Claro,NA,NA
+199,Chile,Sagrada Familia,NA,NA
+200,Chile,San Antonio,NA,NA
+201,Chile,San Clemente,NA,NA
+202,Chile,Santa Cruz,NA,NA
+203,China,China,NA,NA
+204,Croatia,Croatia,NA,NA
+205,Croatia,Dalmatian Coast,NA,NA
+206,Croatia,Dingač,NA,NA
+207,Croatia,Hrvatsko Primorje,NA,NA
+208,Croatia,Hvar,NA,NA
+209,Croatia,Istria,NA,NA
+210,Croatia,Korčula,NA,NA
+211,Croatia,Krk,NA,NA
+212,Croatia,Kutjevo,NA,NA
+213,Croatia,Middle and South Dalmatia,NA,NA
+214,Croatia,North Dalmatia,NA,NA
+215,Croatia,Peljesac,NA,NA
+216,Croatia,Podunavlje,NA,NA
+217,Cyprus,Commandaria,NA,NA
+218,Cyprus,Cyprus,NA,NA
+219,Cyprus,Kathikas,NA,NA
+220,Cyprus,Lemesos,NA,NA
+221,Cyprus,Pafos,NA,NA
+222,Cyprus,Pitsilia Mountains,NA,NA
+223,Czech Republic,Moravia,NA,NA
+224,Egypt,Egypt,NA,NA
+225,England,England,NA,NA
+226,France,Alsace,Alsace,NA
+227,France,Alsace,Crémant d'Alsace,NA
+228,France,Beaujolais,Beaujolais,NA
+229,France,Beaujolais,Beaujolais Blanc,NA
+230,France,Beaujolais,Beaujolais Rosé,NA
+231,France,Beaujolais,Beaujolais-Leynes,NA
+232,France,Beaujolais,Beaujolais-Villages,NA
+233,France,Beaujolais,Brouilly,NA
+234,France,Beaujolais,Chénas,NA
+235,France,Beaujolais,Chiroubles,NA
+236,France,Beaujolais,Côte de Brouilly,NA
+237,France,Beaujolais,Coteaux du Lyonnais,NA
+238,France,Beaujolais,Fleurie,NA
+239,France,Beaujolais,Juliénas,NA
+240,France,Beaujolais,Morgon,NA
+241,France,Beaujolais,Moulin-à-Vent,NA
+242,France,Beaujolais,Régnié,NA
+243,France,Beaujolais,Saint-Amour,NA
+244,France,Bordeaux,Barsac,NA
+245,France,Bordeaux,Blaye Côtes de Bordeaux,NA
+246,France,Bordeaux,Bordeaux,NA
+247,France,Bordeaux,Bordeaux Blanc,NA
+248,France,Bordeaux,Bordeaux Clairet,NA
+249,France,Bordeaux,Bordeaux Côtes de Francs,NA
+250,France,Bordeaux,Bordeaux Rosé,NA
+251,France,Bordeaux,Bordeaux Supérieur,NA
+252,France,Bordeaux,Cadillac,NA
+253,France,Bordeaux,Cadillac Côtes de Bordeaux,NA
+254,France,Bordeaux,Canon-Fronsac,NA
+255,France,Bordeaux,Castillon Côtes de Bordeaux,NA
+256,France,Bordeaux,Cérons,NA
+257,France,Bordeaux,Côtes de Bordeaux,NA
+258,France,Bordeaux,Côtes de Bourg,NA
+259,France,Bordeaux,Côtes de Castillon,NA
+260,France,Bordeaux,Crémant de Bordeaux,NA
+261,France,Bordeaux,Entre-Deux-Mers,NA
+262,France,Bordeaux,Francs Côtes de Bordeaux,NA
+263,France,Bordeaux,Fronsac,NA
+264,France,Bordeaux,Graves,NA
+265,France,Bordeaux,Haut-Médoc,NA
+266,France,Bordeaux,Lalande de Pomerol,NA
+267,France,Bordeaux,Listrac-Médoc,NA
+268,France,Bordeaux,Lussac Saint-Émilion,NA
+269,France,Bordeaux,Margaux,NA
+270,France,Bordeaux,Médoc,NA
+271,France,Bordeaux,Montagne-Saint-Émilion,NA
+272,France,Bordeaux,Moulis,NA
+273,France,Bordeaux,Moulis-en-Médoc,NA
+274,France,Bordeaux,Pauillac,NA
+275,France,Bordeaux,Pessac-Léognan,NA
+276,France,Bordeaux,Pomerol,NA
+277,France,Bordeaux,Premieres Côtes de Blaye,NA
+278,France,Bordeaux,Premieres Côtes de Bordeaux,NA
+279,France,Bordeaux,Puisseguin Saint-Émilion,NA
+280,France,Bordeaux,Saint-Croix-du-Mont,NA
+281,France,Bordeaux,Saint-Émilion,NA
+282,France,Bordeaux,Saint-Estèphe,NA
+283,France,Bordeaux,Saint-Georges-Saint-Émilion,NA
+284,France,Bordeaux,Saint-Julien,NA
+285,France,Bordeaux,Sainte-Foy Bordeaux,NA
+286,France,Bordeaux,Sauternes,NA
+287,France,Bordeaux,Vin de Pays de l'Atlantique,NA
+288,France,Bordeaux,NA,NA
+289,France,Burgundy,Aloxe-Corton,NA
+290,France,Burgundy,Auxey-Duresses,NA
+291,France,Burgundy,Bâtard-Montrachet,NA
+292,France,Burgundy,Beaune,NA
+293,France,Burgundy,Bienvenues Bâtard-Montrachet,NA
+294,France,Burgundy,Bonnes-Mares,NA
+295,France,Burgundy,Bourgogne,NA
+296,France,Burgundy,Bourgogne Aligoté,NA
+297,France,Burgundy,Bourgogne Côtes d’Auxerre,NA
+298,France,Burgundy,Bourgogne Epineuil,NA
+299,France,Burgundy,Bourgogne Gamay,NA
+300,France,Burgundy,Bourgogne Hautes Côtes de Beaune,NA
+301,France,Burgundy,Bourgogne Hautes Côtes de Nuits,NA
+302,France,Burgundy,Bourgogne Vézelay,NA
+303,France,Burgundy,Burgundy,NA
+304,France,Burgundy,Chablis,NA
+305,France,Burgundy,Chambertin,NA
+306,France,Burgundy,Chambertin Clos de Bèze,NA
+307,France,Burgundy,Chambolle-Musigny,NA
+308,France,Burgundy,Chapelle-Chambertin,NA
+309,France,Burgundy,Charmes-Chambertin,NA
+310,France,Burgundy,Chassagne-Montrachet,NA
+311,France,Burgundy,Chevalier-Montrachet,NA
+312,France,Burgundy,Chorey-lès-Beaune,NA
+313,France,Burgundy,Clos de la Roche,NA
+314,France,Burgundy,Clos de Lambrays,NA
+315,France,Burgundy,Clos de Tart,NA
+316,France,Burgundy,Clos de Vougeot,NA
+317,France,Burgundy,Clos Saint-Denis,NA
+318,France,Burgundy,Corton,NA
+319,France,Burgundy,Corton Grèves,NA
+320,France,Burgundy,Corton Les Renardes,NA
+321,France,Burgundy,Corton Perrières,NA
+322,France,Burgundy,Corton Vergennes,NA
+323,France,Burgundy,Corton-Bressandes,NA
+324,France,Burgundy,Corton-Charlemagne,NA
+325,France,Burgundy,Corton-Pougets,NA
+326,France,Burgundy,Corton-Rognet,NA
+327,France,Burgundy,Côte Chalonnaise,NA
+328,France,Burgundy,Côte de Beaune,NA
+329,France,Burgundy,Côte de Beaune-Villages,NA
+330,France,Burgundy,Côte de Nuits-Villages,NA
+331,France,Burgundy,Coteaux Bourguignons,NA
+332,France,Burgundy,Côtes de Nuits Villages,NA
+333,France,Burgundy,Crémant de Bourgogne,NA
+334,France,Burgundy,Criots-Bâtard-Montrachet,NA
+335,France,Burgundy,Echézeaux,NA
+336,France,Burgundy,Fixin,NA
+337,France,Burgundy,Gevrey-Chambertin,NA
+338,France,Burgundy,Givry,NA
+339,France,Burgundy,Grands-Echezeaux,NA
+340,France,Burgundy,Hautes Cotes de Beaune,NA
+341,France,Burgundy,Hautes Côtes de Nuits,NA
+342,France,Burgundy,Irancy,NA
+343,France,Burgundy,La Grande Rue,NA
+344,France,Burgundy,La Romanée,NA
+345,France,Burgundy,Ladoix,NA
+346,France,Burgundy,Latricières-Chambertin,NA
+347,France,Burgundy,Mâcon,NA
+348,France,Burgundy,Mâcon Chaintré,NA
+349,France,Burgundy,Mâcon La Roche Vineuse,NA
+350,France,Burgundy,Mâcon Solutré,NA
+351,France,Burgundy,Mâcon-Azé,NA
+352,France,Burgundy,Macon-Bussières,NA
+353,France,Burgundy,Mâcon-Chardonnay,NA
+354,France,Burgundy,Mâcon-Charnay,NA
+355,France,Burgundy,Mâcon-Cruzille,NA
+356,France,Burgundy,Mâcon-Davayé,NA
+357,France,Burgundy,Mâcon-Fuissé,NA
+358,France,Burgundy,Mâcon-Loché,NA
+359,France,Burgundy,Mâcon-Lugny,NA
+360,France,Burgundy,Mâcon-Mancey,NA
+361,France,Burgundy,Mâcon-Milly Lamartine,NA
+362,France,Burgundy,Mâcon-Péronne,NA
+363,France,Burgundy,Mâcon-Pierreclos,NA
+364,France,Burgundy,Mâcon-Prissé,NA
+365,France,Burgundy,Mâcon-Uchizy,NA
+366,France,Burgundy,Mâcon-Vergisson,NA
+367,France,Burgundy,Mâcon-Verze,NA
+368,France,Burgundy,Mâcon-Villages,NA
+369,France,Burgundy,Mâcon-Vinzelles,NA
+370,France,Burgundy,Maranges,NA
+371,France,Burgundy,Marsannay,NA
+372,France,Burgundy,Mazis-Chambertin,NA
+373,France,Burgundy,Mazoyeres-Chambertin,NA
+374,France,Burgundy,Mercurey,NA
+375,France,Burgundy,Meursault,NA
+376,France,Burgundy,Meursault-Blagny,NA
+377,France,Burgundy,Montagny,NA
+378,France,Burgundy,Monthélie,NA
+379,France,Burgundy,Montrachet,NA
+380,France,Burgundy,Morey-Saint-Denis,NA
+381,France,Burgundy,Musigny,NA
+382,France,Burgundy,Nuits-St.-Georges,NA
+383,France,Burgundy,Pernand-Vergelesses,NA
+384,France,Burgundy,Petit Chablis,NA
+385,France,Burgundy,Pommard,NA
+386,France,Burgundy,Pouilly-Fuissé,NA
+387,France,Burgundy,Pouilly-Loché,NA
+388,France,Burgundy,Pouilly-Vinzelles,NA
+389,France,Burgundy,Puligny-Montrachet,NA
+390,France,Burgundy,Romanée-St.-Vivant,NA
+391,France,Burgundy,Rully,NA
+392,France,Burgundy,Saint-Aubin,NA
+393,France,Burgundy,Saint-Bris,NA
+394,France,Burgundy,Saint-Romain,NA
+395,France,Burgundy,Saint-Véran,NA
+396,France,Burgundy,Santenay,NA
+397,France,Burgundy,Savigny-lès-Beaune,NA
+398,France,Burgundy,St.-Romain,NA
+399,France,Burgundy,Viré-Clessé,NA
+400,France,Burgundy,Volnay,NA
+401,France,Burgundy,Vosne-Romanée,NA
+402,France,Burgundy,Vougeot,NA
+403,France,Burgundy,NA,NA
+404,France,Champagne,Champagne,NA
+405,France,France Other,Apremont,NA
+406,France,France Other,Arbois,NA
+407,France,France Other,Atlantique,NA
+408,France,France Other,Charentais,NA
+409,France,France Other,Château-Chalon,NA
+410,France,France Other,Chignin,NA
+411,France,France Other,Chignin-Bergeron,NA
+412,France,France Other,Corse,NA
+413,France,France Other,Corse Porto Vecchio,NA
+414,France,France Other,Côtes de Forez,NA
+415,France,France Other,Côtes du Jura,NA
+416,France,France Other,Crémant de Jura,NA
+417,France,France Other,France,NA
+418,France,France Other,Ile de Beauté,NA
+419,France,France Other,Mediterranée,NA
+420,France,France Other,Patrimonio,NA
+421,France,France Other,Roussette de Savoie,NA
+422,France,France Other,Savoie,NA
+423,France,France Other,Vin de France,NA
+424,France,France Other,Vin de Liqueur,NA
+425,France,France Other,Vin de Pays de France,NA
+426,France,France Other,Vin de Pays de l'Ile de Beauté,NA
+427,France,France Other,Vin de Pays de la Méditerranée,NA
+428,France,France Other,Vin de Pays des Portes de Méditerranée,NA
+429,France,France Other,Vin de Savoie,NA
+430,France,France Other,Vin de Table Francais,NA
+431,France,France Other,Vin Mousseux,NA
+432,France,France Other,Vin Pétillant,NA
+433,France,France Other,NA,NA
+434,France,Languedoc-Roussillon,Aude Hauterive,NA
+435,France,Languedoc-Roussillon,Banyuls,NA
+436,France,Languedoc-Roussillon,Blanquette de Limoux,NA
+437,France,Languedoc-Roussillon,Cabardes,NA
+438,France,Languedoc-Roussillon,Collioure,NA
+439,France,Languedoc-Roussillon,Corbières,NA
+440,France,Languedoc-Roussillon,Corbières-Boutenac,NA
+441,France,Languedoc-Roussillon,Coteaux du Languedoc,NA
+442,France,Languedoc-Roussillon,Coteaux du Languedoc Pic Saint Loup,NA
+443,France,Languedoc-Roussillon,Coteaux du Languedoc-Pézenas,NA
+444,France,Languedoc-Roussillon,Côtes Catalanes,NA
+445,France,Languedoc-Roussillon,Côtes de Thau,NA
+446,France,Languedoc-Roussillon,Côtes de Thongue,NA
+447,France,Languedoc-Roussillon,Côtes du Roussillon,NA
+448,France,Languedoc-Roussillon,Côtes du Roussillon Les Aspres,NA
+449,France,Languedoc-Roussillon,Côtes du Roussillon Villages,NA
+450,France,Languedoc-Roussillon,Côtes du Roussillon Villages Caramany,NA
+451,France,Languedoc-Roussillon,Côtes du Roussillon Villages Tautavel,NA
+452,France,Languedoc-Roussillon,Crémant de Limoux,NA
+453,France,Languedoc-Roussillon,Faugères,NA
+454,France,Languedoc-Roussillon,Fitou,NA
+455,France,Languedoc-Roussillon,Gard,NA
+456,France,Languedoc-Roussillon,La Clape,NA
+457,France,Languedoc-Roussillon,Languedoc,NA
+458,France,Languedoc-Roussillon,Limoux,NA
+459,France,Languedoc-Roussillon,Maury,NA
+460,France,Languedoc-Roussillon,Maury Sec,NA
+461,France,Languedoc-Roussillon,Minervois,NA
+462,France,Languedoc-Roussillon,Minervois La Liviniere,NA
+463,France,Languedoc-Roussillon,Muscat de Rivesaltes,NA
+464,France,Languedoc-Roussillon,Muscat de Saint-Jean de Minervois,NA
+465,France,Languedoc-Roussillon,Pays d'Oc,NA
+466,France,Languedoc-Roussillon,Picpoul de Pinet,NA
+467,France,Languedoc-Roussillon,Rivesaltes,NA
+468,France,Languedoc-Roussillon,Rivesaltes Rosé,NA
+469,France,Languedoc-Roussillon,Sable de Camargue,NA
+470,France,Languedoc-Roussillon,Saint Guilhem le Désert,NA
+471,France,Languedoc-Roussillon,Saint-Chinian,NA
+472,France,Languedoc-Roussillon,Saint-Chinian-Roquebrun,NA
+473,France,Languedoc-Roussillon,Terrasses du Larzac,NA
+474,France,Languedoc-Roussillon,Vallée du Paradis,NA
+475,France,Languedoc-Roussillon,Vin de Pays Cité de Carcassonne,NA
+476,France,Languedoc-Roussillon,Vin de Pays d'Oc,NA
+477,France,Languedoc-Roussillon,Vin de Pays de L'Aude,NA
+478,France,Languedoc-Roussillon,Vin de Pays de L'Herault,NA
+479,France,Languedoc-Roussillon,Vin de Pays de la Haute Vallée du Gassac,NA
+480,France,Languedoc-Roussillon,Vin de Pays de Montferrand,NA
+481,France,Languedoc-Roussillon,Vin de Pays des Coteaux de Bessilles,NA
+482,France,Languedoc-Roussillon,Vin de Pays des Côtes Catalanes,NA
+483,France,Languedoc-Roussillon,Vin de Pays du Val de Cesse,NA
+484,France,Languedoc-Roussillon,NA,NA
+485,France,Loire Valley,Anjou,NA
+486,France,Loire Valley,Anjou Villages,NA
+487,France,Loire Valley,Anjou Villages Brissac,NA
+488,France,Loire Valley,Bonnezeaux,NA
+489,France,Loire Valley,Bourgueil,NA
+490,France,Loire Valley,Cabernet d'Anjou,NA
+491,France,Loire Valley,Cabernet de Saumur,NA
+492,France,Loire Valley,Châteaumeillant,NA
+493,France,Loire Valley,Cheverny,NA
+494,France,Loire Valley,Chinon,NA
+495,France,Loire Valley,Côte Roannaise,NA
+496,France,Loire Valley,Coteaux d'Ancenis,NA
+497,France,Loire Valley,Coteaux du Giennois,NA
+498,France,Loire Valley,Coteaux du Layon,NA
+499,France,Loire Valley,Coteaux du Layon Beaulieu,NA
+500,France,Loire Valley,Coteaux du Layon Chaume,NA
+501,France,Loire Valley,Coteaux du Layon Saint Aubin,NA
+502,France,Loire Valley,Coteaux du Vendômois,NA
+503,France,Loire Valley,Cour-Cheverny,NA
+504,France,Loire Valley,Crémant de Loire,NA
+505,France,Loire Valley,Menetou-Salon,NA
+506,France,Loire Valley,Montlouis-sur-Loire,NA
+507,France,Loire Valley,Muscadet,NA
+508,France,Loire Valley,Muscadet Coteaux de la Loire,NA
+509,France,Loire Valley,Muscadet Côtes de Grandlieu,NA
+510,France,Loire Valley,Muscadet Sèvre et Maine,NA
+511,France,Loire Valley,Muscadet Sèvre et Maine Clisson,NA
+512,France,Loire Valley,Pays de Loire,NA
+513,France,Loire Valley,Pouilly-Fumé,NA
+514,France,Loire Valley,Pouilly-sur-Loire,NA
+515,France,Loire Valley,Quarts de Chaume,NA
+516,France,Loire Valley,Quincy,NA
+517,France,Loire Valley,Reuilly,NA
+518,France,Loire Valley,Rosé d'Anjou,NA
+519,France,Loire Valley,Rosé de Loire,NA
+520,France,Loire Valley,Saint-Nicolas-de-Bourgueil,NA
+521,France,Loire Valley,Sancerre,NA
+522,France,Loire Valley,Saumur,NA
+523,France,Loire Valley,Saumur-Champigny,NA
+524,France,Loire Valley,Savennières,NA
+525,France,Loire Valley,Savennières-Roche-Aux-Moines,NA
+526,France,Loire Valley,Touraine,NA
+527,France,Loire Valley,Touraine Amboise,NA
+528,France,Loire Valley,Val de Loire,NA
+529,France,Loire Valley,Vin de Pays du Jardin de la France,NA
+530,France,Loire Valley,Vin de Pays du Val de Loire,NA
+531,France,Loire Valley,Vouvray,NA
+532,France,Loire Valley,NA,NA
+533,France,Provence,Alpilles,NA
+534,France,Provence,Bandol,NA
+535,France,Provence,Coteaux d'Aix-en-Provence,NA
+536,France,Provence,Coteaux de Verdon,NA
+537,France,Provence,Coteaux Varois,NA
+538,France,Provence,Coteaux Varois en Provence,NA
+539,France,Provence,Côtes de Provence,NA
+540,France,Provence,Côtes de Provence La Londe,NA
+541,France,Provence,Côtes de Provence Sainte-Victoire,NA
+542,France,Provence,Les Baux de Provence,NA
+543,France,Provence,Palette,NA
+544,France,Provence,Var,NA
+545,France,Provence,Vin de Pays des Alpilles,NA
+546,France,Provence,Vin de Pays des Maures,NA
+547,France,Provence,Vin de Pays Var,NA
+548,France,Provence,NA,NA
+549,France,Rhône Valley,Ardèche,NA
+550,France,Rhône Valley,Cévennes,NA
+551,France,Rhône Valley,Châteauneuf-du-Pape,NA
+552,France,Rhône Valley,Clairette de Bellegarde,NA
+553,France,Rhône Valley,Clairette de Die,NA
+554,France,Rhône Valley,Clairette de Die Méthode Dioise Ancestrale,NA
+555,France,Rhône Valley,Collines Rhôdaniennes,NA
+556,France,Rhône Valley,Condrieu,NA
+557,France,Rhône Valley,Cornas,NA
+558,France,Rhône Valley,Costières de Nîmes,NA
+559,France,Rhône Valley,Côte Rôtie,NA
+560,France,Rhône Valley,Côtes du Luberon,NA
+561,France,Rhône Valley,Côtes du Rhône,NA
+562,France,Rhône Valley,Côtes du Rhône Villages,NA
+563,France,Rhône Valley,Côtes-du-Ventoux,NA
+564,France,Rhône Valley,Crozes-Hermitage,NA
+565,France,Rhône Valley,Gigondas,NA
+566,France,Rhône Valley,Hermitage,NA
+567,France,Rhône Valley,Laudun,NA
+568,France,Rhône Valley,Lirac,NA
+569,France,Rhône Valley,Luberon,NA
+570,France,Rhône Valley,Muscat de Beaumes de Venise,NA
+571,France,Rhône Valley,Rasteau,NA
+572,France,Rhône Valley,Saint-Joseph,NA
+573,France,Rhône Valley,Saint-Péray,NA
+574,France,Rhône Valley,Tavel,NA
+575,France,Rhône Valley,Vacqueyras,NA
+576,France,Rhône Valley,Ventoux,NA
+577,France,Rhône Valley,Vin de Pays de Vaucluse,NA
+578,France,Rhône Valley,Vin de Pays des Cévennes,NA
+579,France,Rhône Valley,Vin de Pays du Gard,NA
+580,France,Rhône Valley,Vin Doux Naturel Rasteau,NA
+581,France,Rhône Valley,NA,NA
+582,France,Southwest France,Béarn,NA
+583,France,Southwest France,Bergerac,NA
+584,France,Southwest France,Bergerac Rosé,NA
+585,France,Southwest France,Bergerac Sec,NA
+586,France,Southwest France,Brulhois,NA
+587,France,Southwest France,Buzet,NA
+588,France,Southwest France,Cahors,NA
+589,France,Southwest France,Côtes de Bergerac,NA
+590,France,Southwest France,Côtes de Duras,NA
+591,France,Southwest France,Côtes de Gascogne,NA
+592,France,Southwest France,Côtes de Montravel,NA
+593,France,Southwest France,Côtes de Saint-Mont,NA
+594,France,Southwest France,Côtes du Frontonnais,NA
+595,France,Southwest France,Côtes du Lot,NA
+596,France,Southwest France,Côtes du Marmandais,NA
+597,France,Southwest France,Côtes du Tarn,NA
+598,France,Southwest France,Fronton,NA
+599,France,Southwest France,Gaillac,NA
+600,France,Southwest France,Gaillac Doux,NA
+601,France,Southwest France,Gers,NA
+602,France,Southwest France,Irrouléguy,NA
+603,France,Southwest France,Jurançon,NA
+604,France,Southwest France,Jurançon Sec,NA
+605,France,Southwest France,Landes,NA
+606,France,Southwest France,Lot,NA
+607,France,Southwest France,Madiran,NA
+608,France,Southwest France,Marcillac,NA
+609,France,Southwest France,Monbazillac,NA
+610,France,Southwest France,Montravel,NA
+611,France,Southwest France,Pacherenc du Vic Bilh,NA
+612,France,Southwest France,Pécharmant,NA
+613,France,Southwest France,Périgord,NA
+614,France,Southwest France,Saint-Mont,NA
+615,France,Southwest France,Saussignac,NA
+616,France,Southwest France,Vin de Pays des Côtes de Gascogne,NA
+617,France,Southwest France,Vin de Pays du Comté Tolosan,NA
+618,France,Southwest France,Vin de Pays du Lot,NA
+619,France,Southwest France,NA,NA
+620,Georgia,Georgia,NA,NA
+621,Georgia,Kakheti,NA,NA
+622,Germany,Ahr,NA,NA
+623,Germany,Baden,NA,NA
+624,Germany,Franken,NA,NA
+625,Germany,Germany,NA,NA
+626,Germany,Landwein Rhein,NA,NA
+627,Germany,Mittelrhein,NA,NA
+628,Germany,Mosel,NA,NA
+629,Germany,Mosel-Saar-Ruwer,NA,NA
+630,Germany,Nahe,NA,NA
+631,Germany,Pfalz,NA,NA
+632,Germany,Rheingau,NA,NA
+633,Germany,Rheinhessen,NA,NA
+634,Germany,Württemberg,NA,NA
+635,Greece,Achaia,NA,NA
+636,Greece,Agioritikos,NA,NA
+637,Greece,Amindeo,NA,NA
+638,Greece,Amyndeon,NA,NA
+639,Greece,Arcadia,NA,NA
+640,Greece,Atalanti Valley,NA,NA
+641,Greece,Attica,NA,NA
+642,Greece,Beotia,NA,NA
+643,Greece,Central Greece,NA,NA
+644,Greece,Cephalonia,NA,NA
+645,Greece,Chalkidiki,NA,NA
+646,Greece,Corinth,NA,NA
+647,Greece,Corinthia,NA,NA
+648,Greece,Crete,NA,NA
+649,Greece,Cyclades,NA,NA
+650,Greece,Drama,NA,NA
+651,Greece,Epanomi,NA,NA
+652,Greece,Florina,NA,NA
+653,Greece,Goumenissa,NA,NA
+654,Greece,Greece,NA,NA
+655,Greece,Halkidiki,NA,NA
+656,Greece,Imathia,NA,NA
+657,Greece,Ismarikos,NA,NA
+658,Greece,Korinthia,NA,NA
+659,Greece,Krania Olympus,NA,NA
+660,Greece,Lakonia,NA,NA
+661,Greece,Lesbos,NA,NA
+662,Greece,Letrinon,NA,NA
+663,Greece,Limnos,NA,NA
+664,Greece,Macedonia,NA,NA
+665,Greece,Mantinia,NA,NA
+666,Greece,Markopoulo,NA,NA
+667,Greece,Mavrodaphne de Cephalonie,NA,NA
+668,Greece,Mavrodaphne of Patras,NA,NA
+669,Greece,Messinia,NA,NA
+670,Greece,Monemvasia,NA,NA
+671,Greece,Mount Athos,NA,NA
+672,Greece,Muscat of Kefallonian,NA,NA
+673,Greece,Muscat of Patras,NA,NA
+674,Greece,Naoussa,NA,NA
+675,Greece,Nemea,NA,NA
+676,Greece,Pageon,NA,NA
+677,Greece,Pangeon,NA,NA
+678,Greece,Patras,NA,NA
+679,Greece,Peloponnese,NA,NA
+680,Greece,Rapsani,NA,NA
+681,Greece,Retsina,NA,NA
+682,Greece,Samos,NA,NA
+683,Greece,Santorini,NA,NA
+684,Greece,Sithonia,NA,NA
+685,Greece,Sterea Ellada,NA,NA
+686,Greece,Thessalikos,NA,NA
+687,Greece,Thraki,NA,NA
+688,Greece,Vin de Pays de Velvendo,NA,NA
+689,Hungary,Eger,NA,NA
+690,Hungary,Hungary,NA,NA
+691,Hungary,Mátra,NA,NA
+692,Hungary,Sopron,NA,NA
+693,Hungary,Szekszárd,NA,NA
+694,Hungary,Tokaj,NA,NA
+695,Hungary,Tokaji,NA,NA
+696,Hungary,Villány,NA,NA
+697,India,Nashik,NA,NA
+698,Israel,Dan,NA,NA
+699,Israel,Ella Valley,NA,NA
+700,Israel,Galil,NA,NA
+701,Israel,Galilee,NA,NA
+702,Israel,Golan Heights,NA,NA
+703,Israel,Haut-Judeé,NA,NA
+704,Israel,Israel,NA,NA
+705,Israel,Jerusalem Hills,NA,NA
+706,Israel,Judean Hills,NA,NA
+707,Israel,Negev,NA,NA
+708,Israel,Negev Hills,NA,NA
+709,Israel,Samson,NA,NA
+710,Israel,Shomron,NA,NA
+711,Israel,Upper Galilee,NA,NA
+712,Italy,Central Italy,Abruzzo,NA
+713,Italy,Central Italy,Albana di Romagna,NA
+714,Italy,Central Italy,Assisi,NA
+715,Italy,Central Italy,Cerasuolo d'Abruzzo,NA
+716,Italy,Central Italy,Cesanese del Piglio,NA
+717,Italy,Central Italy,Circeo,NA
+718,Italy,Central Italy,Civitella d'Agliano,NA
+719,Italy,Central Italy,Colli Aprutini,NA
+720,Italy,Central Italy,Colli Bolognesi,NA
+721,Italy,Central Italy,Colli di Faenza,NA
+722,Italy,Central Italy,Colli Martani,NA
+723,Italy,Central Italy,Colli Perugini,NA
+724,Italy,Central Italy,Colli Piacentini,NA
+725,Italy,Central Italy,Colline Pescaresi,NA
+726,Italy,Central Italy,Colline Teatine,NA
+727,Italy,Central Italy,Colline Teramane,NA
+728,Italy,Central Italy,Conero,NA
+729,Italy,Central Italy,Controguerra,NA
+730,Italy,Central Italy,Emilia,NA
+731,Italy,Central Italy,Emilia-Romagna,NA
+732,Italy,Central Italy,Est! Est!! Est!!! di Montefiascone,NA
+733,Italy,Central Italy,Falerio,NA
+734,Italy,Central Italy,Falerio dei Colli Ascolani,NA
+735,Italy,Central Italy,Forlì,NA
+736,Italy,Central Italy,Frascati,NA
+737,Italy,Central Italy,Frascati Superiore,NA
+738,Italy,Central Italy,Gutturnio Classico Superiore,NA
+739,Italy,Central Italy,Gutturnio Colli Piacentini,NA
+740,Italy,Central Italy,Lago di Corbara,NA
+741,Italy,Central Italy,Lambrusco dell'Emilia,NA
+742,Italy,Central Italy,Lambrusco di Modena,NA
+743,Italy,Central Italy,Lambrusco di Sorbara,NA
+744,Italy,Central Italy,Lambrusco Grasparossa di Castelvetro,NA
+745,Italy,Central Italy,Lambrusco Reggiano,NA
+746,Italy,Central Italy,Lambrusco Salamino di Santa Croce,NA
+747,Italy,Central Italy,Lazio,NA
+748,Italy,Central Italy,Marche,NA
+749,Italy,Central Italy,Montefalco,NA
+750,Italy,Central Italy,Montefalco Rosso,NA
+751,Italy,Central Italy,Montefalco Sagrantino,NA
+752,Italy,Central Italy,Montepulciano d'Abruzzo,NA
+753,Italy,Central Italy,Montepulciano d'Abruzzo Cerasuolo,NA
+754,Italy,Central Italy,Montepulciano d'Abruzzo Colline Teramane,NA
+755,Italy,Central Italy,Offida Passerina,NA
+756,Italy,Central Italy,Offida Pecorino,NA
+757,Italy,Central Italy,Offida Rosso,NA
+758,Italy,Central Italy,Orvieto,NA
+759,Italy,Central Italy,Orvieto Classico,NA
+760,Italy,Central Italy,Orvieto Classico Superiore,NA
+761,Italy,Central Italy,Romagna,NA
+762,Italy,Central Italy,Rosso Conero,NA
+763,Italy,Central Italy,Rosso Piceno,NA
+764,Italy,Central Italy,Rosso Piceno Superiore,NA
+765,Italy,Central Italy,Rubicone,NA
+766,Italy,Central Italy,Sagrantino di Montefalco,NA
+767,Italy,Central Italy,San Marino,NA
+768,Italy,Central Italy,Sangiovese di Romagna,NA
+769,Italy,Central Italy,Sangiovese di Romagna Superiore,NA
+770,Italy,Central Italy,Terre di Chieti,NA
+771,Italy,Central Italy,Todi,NA
+772,Italy,Central Italy,Torgiano,NA
+773,Italy,Central Italy,Torgiano Rosso Riserva,NA
+774,Italy,Central Italy,Trebbiano d'Abruzzo,NA
+775,Italy,Central Italy,Umbria,NA
+776,Italy,Central Italy,Verdicchio dei Castelli di Jesi,NA
+777,Italy,Central Italy,Verdicchio dei Castelli di Jesi Classico,NA
+778,Italy,Central Italy,Verdicchio dei Castelli di Jesi Classico Superiore,NA
+779,Italy,Central Italy,Verdicchio di Matelica,NA
+780,Italy,Central Italy,NA,NA
+781,Italy,Italy Other,Italy,NA
+782,Italy,Italy Other,Vino da Tavola,NA
+783,Italy,Italy Other,Vino Spumante,NA
+784,Italy,Italy Other,NA,NA
+785,Italy,Lombardy,Curtefranca,NA
+786,Italy,Lombardy,Franciacorta,NA
+787,Italy,Lombardy,Lombardy,NA
+788,Italy,Lombardy,Lugana,NA
+789,Italy,Lombardy,Lugana Superiore,NA
+790,Italy,Lombardy,Montenetto di Brescia,NA
+791,Italy,Lombardy,Oltrepò Pavese,NA
+792,Italy,Lombardy,Pavia,NA
+793,Italy,Lombardy,Provincia di Pavia,NA
+794,Italy,Lombardy,Sebino,NA
+795,Italy,Lombardy,Sforzato di Valtellina,NA
+796,Italy,Lombardy,Terrazze Retiche di Sondrio,NA
+797,Italy,Lombardy,Terre di Franciacorta,NA
+798,Italy,Lombardy,Valtellina,NA
+799,Italy,Lombardy,Valtellina Superiore,NA
+800,Italy,Lombardy,Valtènesi,NA
+801,Italy,Northeastern Italy,Alto Adige,NA
+802,Italy,Northeastern Italy,Alto Adige Terlano,NA
+803,Italy,Northeastern Italy,Alto Adige Valle Isarco,NA
+804,Italy,Northeastern Italy,Benaco Bresciano,NA
+805,Italy,Northeastern Italy,Colli Orientali del Friuli,NA
+806,Italy,Northeastern Italy,Colli Trevigiani,NA
+807,Italy,Northeastern Italy,Collio,NA
+808,Italy,Northeastern Italy,Del Veneto,NA
+809,Italy,Northeastern Italy,Delle Venezie,NA
+810,Italy,Northeastern Italy,Friuli,NA
+811,Italy,Northeastern Italy,Friuli Aquileia,NA
+812,Italy,Northeastern Italy,Friuli Colli Orientali,NA
+813,Italy,Northeastern Italy,Friuli Grave,NA
+814,Italy,Northeastern Italy,Friuli Isonzo,NA
+815,Italy,Northeastern Italy,Friuli Venezia Giulia,NA
+816,Italy,Northeastern Italy,Garda,NA
+817,Italy,Northeastern Italy,Garda Classico,NA
+818,Italy,Northeastern Italy,Grave del Friuli,NA
+819,Italy,Northeastern Italy,Isonzo del Friuli,NA
+820,Italy,Northeastern Italy,Mitterberg,NA
+821,Italy,Northeastern Italy,Ramandolo,NA
+822,Italy,Northeastern Italy,Rosazzo,NA
+823,Italy,Northeastern Italy,Teroldego Rotaliano,NA
+824,Italy,Northeastern Italy,Trentino,NA
+825,Italy,Northeastern Italy,Trentino Superiore,NA
+826,Italy,Northeastern Italy,Trento,NA
+827,Italy,Northeastern Italy,Venezia Giulia,NA
+828,Italy,Northeastern Italy,Venezie,NA
+829,Italy,Northeastern Italy,Vigneti delle Dolomiti,NA
+830,Italy,Northeastern Italy,NA,NA
+831,Italy,Northwestern Italy,Colli di Luni,NA
+832,Italy,Northwestern Italy,Riviera Ligure di Ponente,NA
+833,Italy,Northwestern Italy,Valle d'Aosta,NA
+834,Italy,Piedmont,Alta Langa,NA
+835,Italy,Piedmont,Asti,NA
+836,Italy,Piedmont,Barbaresco,NA
+837,Italy,Piedmont,Barbera d'Alba,NA
+838,Italy,Piedmont,Barbera d'Alba Superiore,NA
+839,Italy,Piedmont,Barbera d'Asti,NA
+840,Italy,Piedmont,Barbera d'Asti Superiore,NA
+841,Italy,Piedmont,Barbera d'Asti Superiore Nizza,NA
+842,Italy,Piedmont,Barbera del Monferrato,NA
+843,Italy,Piedmont,Barbera del Monferrato Superiore,NA
+844,Italy,Piedmont,Barbera di Piemonte,NA
+845,Italy,Piedmont,Barolo,NA
+846,Italy,Piedmont,Boca,NA
+847,Italy,Piedmont,Brachetto d'Acqui,NA
+848,Italy,Piedmont,Bramaterra,NA
+849,Italy,Piedmont,Carema,NA
+850,Italy,Piedmont,Casorzo,NA
+851,Italy,Piedmont,Colli Tortonesi,NA
+852,Italy,Piedmont,Colline Novaresi,NA
+853,Italy,Piedmont,Cortese di Gavi,NA
+854,Italy,Piedmont,Coste della Sesia,NA
+855,Italy,Piedmont,Diano d'Alba,NA
+856,Italy,Piedmont,Dogliani,NA
+857,Italy,Piedmont,Dogliani Superiore,NA
+858,Italy,Piedmont,Dolcetto d'Acqui,NA
+859,Italy,Piedmont,Dolcetto d'Alba,NA
+860,Italy,Piedmont,Dolcetto d'Alba Superiore,NA
+861,Italy,Piedmont,Dolcetto d'Asti,NA
+862,Italy,Piedmont,Dolcetto di Diano d'Alba,NA
+863,Italy,Piedmont,Dolcetto di Dogliani,NA
+864,Italy,Piedmont,Dolcetto di Dogliani Superiore,NA
+865,Italy,Piedmont,Dolcetto di Monferrato,NA
+866,Italy,Piedmont,Erbaluce di Caluso,NA
+867,Italy,Piedmont,Fara,NA
+868,Italy,Piedmont,Gattinara,NA
+869,Italy,Piedmont,Gavi,NA
+870,Italy,Piedmont,Gavi di Gavi,NA
+871,Italy,Piedmont,Ghemme,NA
+872,Italy,Piedmont,Langhe,NA
+873,Italy,Piedmont,Lessona,NA
+874,Italy,Piedmont,Loazzolo,NA
+875,Italy,Piedmont,Monferrato,NA
+876,Italy,Piedmont,Monferrato Bianco,NA
+877,Italy,Piedmont,Moscato d'Asti,NA
+878,Italy,Piedmont,Nebbiolo d'Alba,NA
+879,Italy,Piedmont,Piedmont,NA
+880,Italy,Piedmont,Piemonte,NA
+881,Italy,Piedmont,Roero,NA
+882,Italy,Piedmont,Roero Arneis,NA
+883,Italy,Piedmont,Ruché di Castagnole Monferrato,NA
+884,Italy,Piedmont,Strevi,NA
+885,Italy,Piedmont,NA,NA
+886,Italy,Sicily & Sardinia,Alcamo,NA
+887,Italy,Sicily & Sardinia,Alghero,NA
+888,Italy,Sicily & Sardinia,Cannonau di Sardegna,NA
+889,Italy,Sicily & Sardinia,Carignano del Sulcis,NA
+890,Italy,Sicily & Sardinia,Cerasuolo di Vittoria,NA
+891,Italy,Sicily & Sardinia,Cerasuolo di Vittoria Classico,NA
+892,Italy,Sicily & Sardinia,Colli del Limbara,NA
+893,Italy,Sicily & Sardinia,Contea di Sclafani,NA
+894,Italy,Sicily & Sardinia,Contessa Entellina,NA
+895,Italy,Sicily & Sardinia,Delia Nivolelli,NA
+896,Italy,Sicily & Sardinia,Eloro,NA
+897,Italy,Sicily & Sardinia,Erice,NA
+898,Italy,Sicily & Sardinia,Etna,NA
+899,Italy,Sicily & Sardinia,Faro,NA
+900,Italy,Sicily & Sardinia,Isola dei Nuraghi,NA
+901,Italy,Sicily & Sardinia,Malvasia delle Lipari,NA
+902,Italy,Sicily & Sardinia,Mamertino,NA
+903,Italy,Sicily & Sardinia,Marsala,NA
+904,Italy,Sicily & Sardinia,Menfi,NA
+905,Italy,Sicily & Sardinia,Monica di Sardegna,NA
+906,Italy,Sicily & Sardinia,Monreale,NA
+907,Italy,Sicily & Sardinia,Moscato di Noto,NA
+908,Italy,Sicily & Sardinia,Moscato di Pantelleria,NA
+909,Italy,Sicily & Sardinia,Nasco di Cagliari,NA
+910,Italy,Sicily & Sardinia,Noto,NA
+911,Italy,Sicily & Sardinia,Nuragus di Cagliari,NA
+912,Italy,Sicily & Sardinia,Passito di Noto,NA
+913,Italy,Sicily & Sardinia,Passito di Pantelleria,NA
+914,Italy,Sicily & Sardinia,Salina,NA
+915,Italy,Sicily & Sardinia,Sardinia,NA
+916,Italy,Sicily & Sardinia,Sicilia,NA
+917,Italy,Sicily & Sardinia,Siracusa,NA
+918,Italy,Sicily & Sardinia,Terre Siciliane,NA
+919,Italy,Sicily & Sardinia,Valli di Porto Pino,NA
+920,Italy,Sicily & Sardinia,Vermentino di Gallura,NA
+921,Italy,Sicily & Sardinia,Vermentino di Sardegna,NA
+922,Italy,Sicily & Sardinia,Vittoria,NA
+923,Italy,Sicily & Sardinia,Vittoria Frappato,NA
+924,Italy,Southern Italy,Aglianico d'Irpinia,NA
+925,Italy,Southern Italy,Aglianico del Beneventano,NA
+926,Italy,Southern Italy,Aglianico del Taburno,NA
+927,Italy,Southern Italy,Aglianico del Vulture,NA
+928,Italy,Southern Italy,Asprinio di Aversa,NA
+929,Italy,Southern Italy,Basilicata,NA
+930,Italy,Southern Italy,Beneventano,NA
+931,Italy,Southern Italy,Biferno Rosso,NA
+932,Italy,Southern Italy,Brindisi,NA
+933,Italy,Southern Italy,Cacc’e Mmitte di Lucera,NA
+934,Italy,Southern Italy,Calabria,NA
+935,Italy,Southern Italy,Campania,NA
+936,Italy,Southern Italy,Campi Flegrei,NA
+937,Italy,Southern Italy,Castel del Monte,NA
+938,Italy,Southern Italy,Catalanesca del Monte Somma,NA
+939,Italy,Southern Italy,Cilento,NA
+940,Italy,Southern Italy,Cirò,NA
+941,Italy,Southern Italy,Cirò Classico,NA
+942,Italy,Southern Italy,Coda di Volpe d'Irpinia,NA
+943,Italy,Southern Italy,Colli di Salerno,NA
+944,Italy,Southern Italy,Copertino,NA
+945,Italy,Southern Italy,Costa d'Amalfi,NA
+946,Italy,Southern Italy,Donnici,NA
+947,Italy,Southern Italy,Epomeo,NA
+948,Italy,Southern Italy,Falanghina del Beneventano,NA
+949,Italy,Southern Italy,Falanghina del Molise,NA
+950,Italy,Southern Italy,Falanghina del Sannio,NA
+951,Italy,Southern Italy,Falerno del Massico,NA
+952,Italy,Southern Italy,Fiano di Avellino,NA
+953,Italy,Southern Italy,Galatina,NA
+954,Italy,Southern Italy,Galluccio,NA
+955,Italy,Southern Italy,Gioia del Colle,NA
+956,Italy,Southern Italy,Greco di Tufo,NA
+957,Italy,Southern Italy,Irpinia,NA
+958,Italy,Southern Italy,Ischia,NA
+959,Italy,Southern Italy,Lacryma Christi del Vesuvio,NA
+960,Italy,Southern Italy,Lamezia,NA
+961,Italy,Southern Italy,Martina,NA
+962,Italy,Southern Italy,Molise,NA
+963,Italy,Southern Italy,Moscato di Trani,NA
+964,Italy,Southern Italy,Murgia,NA
+965,Italy,Southern Italy,Nardò,NA
+966,Italy,Southern Italy,Paestum,NA
+967,Italy,Southern Italy,Penisola Sorrentina,NA
+968,Italy,Southern Italy,Pompeiano,NA
+969,Italy,Southern Italy,Primitivo del Salento,NA
+970,Italy,Southern Italy,Primitivo del Tarantino,NA
+971,Italy,Southern Italy,Primitivo di Manduria,NA
+972,Italy,Southern Italy,Puglia,NA
+973,Italy,Southern Italy,Roccamonfina,NA
+974,Italy,Southern Italy,Rosso di Cerignola,NA
+975,Italy,Southern Italy,Salento,NA
+976,Italy,Southern Italy,Salice Salentino,NA
+977,Italy,Southern Italy,Sannio,NA
+978,Italy,Southern Italy,Sant' Agata dei Goti,NA
+979,Italy,Southern Italy,Squinzano,NA
+980,Italy,Southern Italy,Taburno,NA
+981,Italy,Southern Italy,Tarantino,NA
+982,Italy,Southern Italy,Taurasi,NA
+983,Italy,Southern Italy,Terra degli Osci,NA
+984,Italy,Southern Italy,Terre del Volturno,NA
+985,Italy,Southern Italy,Val di Neto,NA
+986,Italy,Southern Italy,Vesuvio,NA
+987,Italy,Tuscany,Aleatico dell'Elba,NA
+988,Italy,Tuscany,Alta Valle della Greve,NA
+989,Italy,Tuscany,Barco Reale di Carmignano,NA
+990,Italy,Tuscany,Bolgheri,NA
+991,Italy,Tuscany,Bolgheri Sassicaia,NA
+992,Italy,Tuscany,Bolgheri Superiore,NA
+993,Italy,Tuscany,Brunello di Montalcino,NA
+994,Italy,Tuscany,Carmignano,NA
+995,Italy,Tuscany,Chianti,NA
+996,Italy,Tuscany,Chianti Classico,NA
+997,Italy,Tuscany,Chianti Colli Aretini,NA
+998,Italy,Tuscany,Chianti Colli Fiorentini,NA
+999,Italy,Tuscany,Chianti Colli Pisani,NA
+1000,Italy,Tuscany,Chianti Colli Senesi,NA
+1001,Italy,Tuscany,Chianti Montalbano,NA
+1002,Italy,Tuscany,Chianti Montespertoli,NA
+1003,Italy,Tuscany,Chianti Rufina,NA
+1004,Italy,Tuscany,Chianti Superiore,NA
+1005,Italy,Tuscany,Colli della Toscana Centrale,NA
+1006,Italy,Tuscany,Colli Etruria Centrale,NA
+1007,Italy,Tuscany,Colline Lucchesi,NA
+1008,Italy,Tuscany,Cortona,NA
+1009,Italy,Tuscany,Costa Toscana,NA
+1010,Italy,Tuscany,Maremma,NA
+1011,Italy,Tuscany,Maremma Toscana,NA
+1012,Italy,Tuscany,Montecarlo,NA
+1013,Italy,Tuscany,Montecucco,NA
+1014,Italy,Tuscany,Monteregio di Massa Marittima,NA
+1015,Italy,Tuscany,Montescudaio,NA
+1016,Italy,Tuscany,Morellino di Scansano,NA
+1017,Italy,Tuscany,Moscadello di Montalcino,NA
+1018,Italy,Tuscany,Orcia,NA
+1019,Italy,Tuscany,Pomino,NA
+1020,Italy,Tuscany,Rosso di Montalcino,NA
+1021,Italy,Tuscany,Rosso di Montepulciano,NA
+1022,Italy,Tuscany,Rosso di Toscana,NA
+1023,Italy,Tuscany,San Gimignano,NA
+1024,Italy,Tuscany,Sant'Antimo,NA
+1025,Italy,Tuscany,Sovana,NA
+1026,Italy,Tuscany,Toscana,NA
+1027,Italy,Tuscany,Tuscany,NA
+1028,Italy,Tuscany,Val di Cornia Suvereto,NA
+1029,Italy,Tuscany,Vernaccia di San Gimignano,NA
+1030,Italy,Tuscany,Vin Santo del Chianti,NA
+1031,Italy,Tuscany,Vin Santo del Chianti Classico,NA
+1032,Italy,Tuscany,Vin Santo del Chianti Rufina,NA
+1033,Italy,Tuscany,Vin Santo di Carmignano,NA
+1034,Italy,Tuscany,Vin Santo di Montepulciano,NA
+1035,Italy,Tuscany,Vino Nobile di Montepulciano,NA
+1036,Italy,Veneto,Amarone della Valpolicella,NA
+1037,Italy,Veneto,Amarone della Valpolicella Classico,NA
+1038,Italy,Veneto,Amarone della Valpolicella Valpantena,NA
+1039,Italy,Veneto,Asolo Prosecco Superiore,NA
+1040,Italy,Veneto,Bardolino,NA
+1041,Italy,Veneto,Bardolino Chiaretto,NA
+1042,Italy,Veneto,Bardolino Classico,NA
+1043,Italy,Veneto,Bardolino Classico Superiore,NA
+1044,Italy,Veneto,Bardolino Superiore,NA
+1045,Italy,Veneto,Bianco di Custoza,NA
+1046,Italy,Veneto,Breganze,NA
+1047,Italy,Veneto,Colli di Conegliano,NA
+1048,Italy,Veneto,Colli Euganei,NA
+1049,Italy,Veneto,Conegliano Valdobbiadene Prosecco Superiore,NA
+1050,Italy,Veneto,Custoza,NA
+1051,Italy,Veneto,Custoza Superiore,NA
+1052,Italy,Veneto,Gambellara Classico,NA
+1053,Italy,Veneto,Lessini Durello,NA
+1054,Italy,Veneto,Lison-Pramaggiore,NA
+1055,Italy,Veneto,Marca Trevigiana,NA
+1056,Italy,Veneto,Montello e Colli Asolani,NA
+1057,Italy,Veneto,Monti Lessini,NA
+1058,Italy,Veneto,Piave,NA
+1059,Italy,Veneto,Prosecco,NA
+1060,Italy,Veneto,Prosecco del Veneto,NA
+1061,Italy,Veneto,Prosecco di Conegliano,NA
+1062,Italy,Veneto,Prosecco di Conegliano e Valdobbiadene,NA
+1063,Italy,Veneto,Prosecco di Valdobbiadene,NA
+1064,Italy,Veneto,Prosecco di Valdobbiadene Superiore,NA
+1065,Italy,Veneto,Prosecco Superiore di Cartizze,NA
+1066,Italy,Veneto,Prosecco Treviso,NA
+1067,Italy,Veneto,Recioto della Valpolicella,NA
+1068,Italy,Veneto,Recioto della Valpolicella Classico,NA
+1069,Italy,Veneto,Recioto di Soave,NA
+1070,Italy,Veneto,Recioto di Soave Classico,NA
+1071,Italy,Veneto,Rosso del Veronese,NA
+1072,Italy,Veneto,San Martino della Battaglia,NA
+1073,Italy,Veneto,Soave,NA
+1074,Italy,Veneto,Soave Classico,NA
+1075,Italy,Veneto,Soave Classico Superiore,NA
+1076,Italy,Veneto,Soave Colli Scaligeri,NA
+1077,Italy,Veneto,Soave Superiore,NA
+1078,Italy,Veneto,Valdadige,NA
+1079,Italy,Veneto,Valdobbiadene Prosecco Superiore,NA
+1080,Italy,Veneto,Valdobbiadene Superiore di Cartizze,NA
+1081,Italy,Veneto,Valpolicella,NA
+1082,Italy,Veneto,Valpolicella Classico,NA
+1083,Italy,Veneto,Valpolicella Classico Superiore,NA
+1084,Italy,Veneto,Valpolicella Classico Superiore Ripasso,NA
+1085,Italy,Veneto,Valpolicella Ripasso,NA
+1086,Italy,Veneto,Valpolicella Ripasso Classico,NA
+1087,Italy,Veneto,Valpolicella Ripasso Valpantena,NA
+1088,Italy,Veneto,Valpolicella Ripasso Valpantena Superiore,NA
+1089,Italy,Veneto,Valpolicella Superiore,NA
+1090,Italy,Veneto,Valpolicella Superiore Ripasso,NA
+1091,Italy,Veneto,Valpolicella Valpantena,NA
+1092,Italy,Veneto,Valpolicella Valpantena Superiore,NA
+1093,Italy,Veneto,Veneto,NA
+1094,Italy,Veneto,Veneto Orientale,NA
+1095,Italy,Veneto,Venezia,NA
+1096,Italy,Veneto,Veronese,NA
+1097,Italy,Veneto,NA,NA
+1098,Lebanon,Bekaa Valley,NA,NA
+1099,Lebanon,Lebanon,NA,NA
+1100,Luxembourg,Moselle Luxembourgeoise,NA,NA
+1101,Macedonia,Tikves,NA,NA
+1102,Mexico,San Antonio de las Minas Valley,NA,NA
+1103,Mexico,San Vicente,NA,NA
+1104,Mexico,Valle de Guadalupe,NA,NA
+1105,Moldova,Cahul,NA,NA
+1106,Moldova,Codru Region,NA,NA
+1107,Moldova,Moldova,NA,NA
+1108,Morocco,Guerrouane,NA,NA
+1109,Morocco,Morocco,NA,NA
+1110,Morocco,Zenata,NA,NA
+1111,New Zealand,Awatere Valley,NA,NA
+1112,New Zealand,Canterbury,NA,NA
+1113,New Zealand,Central Otago,NA,NA
+1114,New Zealand,East Coast,NA,NA
+1115,New Zealand,Gisborne,NA,NA
+1116,New Zealand,Gladstone,NA,NA
+1117,New Zealand,Hawke's Bay,NA,NA
+1118,New Zealand,Kumeu,NA,NA
+1119,New Zealand,Marlborough,NA,NA
+1120,New Zealand,Martinborough,NA,NA
+1121,New Zealand,Nelson,NA,NA
+1122,New Zealand,New Zealand,NA,NA
+1123,New Zealand,South Island,NA,NA
+1124,New Zealand,Waiheke Island,NA,NA
+1125,New Zealand,Waipara,NA,NA
+1126,New Zealand,Waipara Valley,NA,NA
+1127,New Zealand,Wairarapa,NA,NA
+1128,New Zealand,Wairau Valley,NA,NA
+1129,New Zealand,Waitaki Valley,NA,NA
+1130,Peru,Ica,NA,NA
+1131,Portugal,Alenquer,NA,NA
+1132,Portugal,Alentejano,NA,NA
+1133,Portugal,Alentejo,NA,NA
+1134,Portugal,Alenteo,NA,NA
+1135,Portugal,Algarve,NA,NA
+1136,Portugal,Bairrada,NA,NA
+1137,Portugal,Beira Atlantico,NA,NA
+1138,Portugal,Beira Interior,NA,NA
+1139,Portugal,Beiras,NA,NA
+1140,Portugal,Bucelas,NA,NA
+1141,Portugal,Colares,NA,NA
+1142,Portugal,Dão,NA,NA
+1143,Portugal,Douro,NA,NA
+1144,Portugal,Duriense,NA,NA
+1145,Portugal,Estremadura,NA,NA
+1146,Portugal,Lisboa,NA,NA
+1147,Portugal,Madeira,NA,NA
+1148,Portugal,Minho,NA,NA
+1149,Portugal,Moscatel de Setúbal,NA,NA
+1150,Portugal,Moscatel do Douro,NA,NA
+1151,Portugal,Obidos,NA,NA
+1152,Portugal,Palmela,NA,NA
+1153,Portugal,Península de Setúbal,NA,NA
+1154,Portugal,Port,NA,NA
+1155,Portugal,Portugal,NA,NA
+1156,Portugal,Portuguese Table Wine,NA,NA
+1157,Portugal,Ribatejano,NA,NA
+1158,Portugal,Ribatejo,NA,NA
+1159,Portugal,Setubal,NA,NA
+1160,Portugal,Table wine,NA,NA
+1161,Portugal,Távora-Varosa,NA,NA
+1162,Portugal,Tejo,NA,NA
+1163,Portugal,Terras do Dão,NA,NA
+1164,Portugal,Terras do Sado,NA,NA
+1165,Portugal,Trás-os-Montes,NA,NA
+1166,Portugal,Vinho da Mesa,NA,NA
+1167,Portugal,Vinho Espumante,NA,NA
+1168,Portugal,Vinho Espumante de Qualidade,NA,NA
+1169,Portugal,Vinho Licoroso,NA,NA
+1170,Portugal,Vinho Verde,NA,NA
+1171,Romania,Dealu Mare,NA,NA
+1172,Romania,Dealurile Hușilor,NA,NA
+1173,Romania,Dealurile Munteniei,NA,NA
+1174,Romania,Jidvei,NA,NA
+1175,Romania,Murfatlar,NA,NA
+1176,Romania,Panciu,NA,NA
+1177,Romania,Recas,NA,NA
+1178,Romania,Romania,NA,NA
+1179,Romania,Sebes,NA,NA
+1180,Romania,Tarnave,NA,NA
+1181,Romania,Vânju Mare,NA,NA
+1182,Romania,Viile Timis,NA,NA
+1183,Romania,Viile Timisului,NA,NA
+1184,Serbia,Fruška Gora,NA,NA
+1185,Serbia,Pocerina,NA,NA
+1186,Serbia,Župa,NA,NA
+1187,Slovakia,Muzla,NA,NA
+1188,Slovenia,Brda,NA,NA
+1189,Slovenia,Dolenjska,NA,NA
+1190,Slovenia,Goriska Brda,NA,NA
+1191,Slovenia,Kras,NA,NA
+1192,Slovenia,Primorska,NA,NA
+1193,Slovenia,Slovenia,NA,NA
+1194,Slovenia,Slovenska Istra,NA,NA
+1195,Slovenia,Štajerska,NA,NA
+1196,Slovenia,Vipavska Dolina,NA,NA
+1197,South Africa,Bot River,NA,NA
+1198,South Africa,Breede River Valley,NA,NA
+1199,South Africa,Breedekloof,NA,NA
+1200,South Africa,Cape Agulhas,NA,NA
+1201,South Africa,Cape Peninsula,NA,NA
+1202,South Africa,Cape South Coast,NA,NA
+1203,South Africa,Cederberg,NA,NA
+1204,South Africa,Ceres Plateau,NA,NA
+1205,South Africa,Coastal Region,NA,NA
+1206,South Africa,Constantia,NA,NA
+1207,South Africa,Darling,NA,NA
+1208,South Africa,Devon Valley,NA,NA
+1209,South Africa,Durbanville,NA,NA
+1210,South Africa,Eilandia,NA,NA
+1211,South Africa,Elgin,NA,NA
+1212,South Africa,Elim,NA,NA
+1213,South Africa,Franschhoek,NA,NA
+1214,South Africa,Groenekloof,NA,NA
+1215,South Africa,Helderberg,NA,NA
+1216,South Africa,Hemel en Aarde,NA,NA
+1217,South Africa,Jonkershoek Valley,NA,NA
+1218,South Africa,Lutzville Valley,NA,NA
+1219,South Africa,Malgas,NA,NA
+1220,South Africa,Northern Cape,NA,NA
+1221,South Africa,Olifants River,NA,NA
+1222,South Africa,Overberg,NA,NA
+1223,South Africa,Paardeberg,NA,NA
+1224,South Africa,Paarl,NA,NA
+1225,South Africa,Philadelphia,NA,NA
+1226,South Africa,Piekenierskloof,NA,NA
+1227,South Africa,Polkadraai Hills,NA,NA
+1228,South Africa,Robertson,NA,NA
+1229,South Africa,Simonsberg-Paarl,NA,NA
+1230,South Africa,Simonsberg-Stellenbosch,NA,NA
+1231,South Africa,South Africa,NA,NA
+1232,South Africa,Stellenbosch,NA,NA
+1233,South Africa,Swartland,NA,NA
+1234,South Africa,Tulbagh,NA,NA
+1235,South Africa,Vlootenburg,NA,NA
+1236,South Africa,Walker Bay,NA,NA
+1237,South Africa,Wellington,NA,NA
+1238,South Africa,Western Cape,NA,NA
+1239,Spain,Andalucia,Jerez,NA
+1240,Spain,Andalucia,Málaga,NA
+1241,Spain,Andalucia,Manzanilla-Sanlúcar de Barrameda,NA
+1242,Spain,Andalucia,Montilla-Moriles,NA
+1243,Spain,Andalucia,Vino de la Tierra Altiplano de Sierra Nevada,NA
+1244,Spain,Andalucia,Vino de la Tierra Contraviesa Alpujarra,NA
+1245,Spain,Andalucia,Vino de la Tierra de Cádiz,NA
+1246,Spain,Andalucia,NA,NA
+1247,Spain,Catalonia,Alella,NA
+1248,Spain,Catalonia,Catalonia,NA
+1249,Spain,Catalonia,Catalunya,NA
+1250,Spain,Catalonia,Cava,NA
+1251,Spain,Catalonia,Conca de Barberà,NA
+1252,Spain,Catalonia,Costers del Segre,NA
+1253,Spain,Catalonia,Montsant,NA
+1254,Spain,Catalonia,Penedès,NA
+1255,Spain,Catalonia,Pla de Bages,NA
+1256,Spain,Catalonia,Priorat,NA
+1257,Spain,Catalonia,Tarragona,NA
+1258,Spain,Catalonia,Terra Alta,NA
+1259,Spain,Central Spain,Almansa,NA
+1260,Spain,Central Spain,Castilla La Mancha,NA
+1261,Spain,Central Spain,Dominio de Valdepusa,NA
+1262,Spain,Central Spain,Extremadura,NA
+1263,Spain,Central Spain,Finca Élez,NA
+1264,Spain,Central Spain,La Mancha,NA
+1265,Spain,Central Spain,Madrid,NA
+1266,Spain,Central Spain,Manchuela,NA
+1267,Spain,Central Spain,Mentrida,NA
+1268,Spain,Central Spain,Ribera del Guadiana,NA
+1269,Spain,Central Spain,Ribera del Júcar,NA
+1270,Spain,Central Spain,Sierra de Salamanca,NA
+1271,Spain,Central Spain,Tierra de Castilla,NA
+1272,Spain,Central Spain,Toledo,NA
+1273,Spain,Central Spain,Uclés,NA
+1274,Spain,Central Spain,Valdepeñas,NA
+1275,Spain,Central Spain,Vino da Mesa de Toledo,NA
+1276,Spain,Central Spain,Vino de la Tierra de Castilla,NA
+1277,Spain,Central Spain,Vinos de Madrid,NA
+1278,Spain,Galicia,Monterrei,NA
+1279,Spain,Galicia,Rías Baixas,NA
+1280,Spain,Galicia,Ribeira Sacra,NA
+1281,Spain,Galicia,Ribeiro,NA
+1282,Spain,Levante,Alicante,NA
+1283,Spain,Levante,Bullas,NA
+1284,Spain,Levante,Jumilla,NA
+1285,Spain,Levante,Utiel-Requena,NA
+1286,Spain,Levante,Valencia,NA
+1287,Spain,Levante,Vino de la Tierra de Castelló,NA
+1288,Spain,Levante,Yecla,NA
+1289,Spain,Northern Spain,Arribes del Duero,NA
+1290,Spain,Northern Spain,Bierzo,NA
+1291,Spain,Northern Spain,Bizkaiko Txakolina,NA
+1292,Spain,Northern Spain,Calatayud,NA
+1293,Spain,Northern Spain,Campo de Borja,NA
+1294,Spain,Northern Spain,Cariñena,NA
+1295,Spain,Northern Spain,Cigales,NA
+1296,Spain,Northern Spain,Emporadà-Costa Brava,NA
+1297,Spain,Northern Spain,Empordà,NA
+1298,Spain,Northern Spain,Getariako Txakolina,NA
+1299,Spain,Northern Spain,Navarra,NA
+1300,Spain,Northern Spain,Pago de Arínzano,NA
+1301,Spain,Northern Spain,Ribera del Duero,NA
+1302,Spain,Northern Spain,Rioja,NA
+1303,Spain,Northern Spain,Rueda,NA
+1304,Spain,Northern Spain,Sardon de Duero,NA
+1305,Spain,Northern Spain,Somontano,NA
+1306,Spain,Northern Spain,Tierra de León,NA
+1307,Spain,Northern Spain,Tierra del Viños de Zamora,NA
+1308,Spain,Northern Spain,Toro,NA
+1309,Spain,Northern Spain,Valdeorras,NA
+1310,Spain,Northern Spain,Vino de Calidad de Tierras de León,NA
+1311,Spain,Northern Spain,Vino de Calidad de Valtiendas,NA
+1312,Spain,Northern Spain,Vino de la Tierra de Castilla y León,NA
+1313,Spain,Northern Spain,Vino de la Tierra de Zamora,NA
+1314,Spain,Northern Spain,Vino de la Tierra del Bajo Aragón,NA
+1315,Spain,Northern Spain,Vino de la Tierra Ribera del Gállego-Cinco Villas,NA
+1316,Spain,Northern Spain,NA,NA
+1317,Spain,Spain Other,Spain,NA
+1318,Spain,Spain Other,Vino de Mesa,NA
+1319,Spain,Spanish Islands,Lanzarote,NA
+1320,Spain,Spanish Islands,Vi de la Terra Illes Balears,NA
+1321,Spain,Spanish Islands,Vi de la Terra Mallorca,NA
+1322,Spain,Spanish Islands,NA,NA
+1323,Switzerland,Neuchâtel,NA,NA
+1324,Switzerland,Switzerland,NA,NA
+1325,Switzerland,Ticino,NA,NA
+1326,Switzerland,Valais,NA,NA
+1327,Turkey,Aegean,NA,NA
+1328,Turkey,Ankara,NA,NA
+1329,Turkey,Cappadocia,NA,NA
+1330,Turkey,Elazığ,NA,NA
+1331,Turkey,Elazığ-Diyarbakir,NA,NA
+1332,Turkey,Thrace,NA,NA
+1333,Turkey,Turkey,NA,NA
+1334,Turkey,Urla-Thrace,NA,NA
+1335,Ukraine,Ukraine,NA,NA
+1336,Uruguay,Atlantida,NA,NA
+1337,Uruguay,Canelones,NA,NA
+1338,Uruguay,Juanico,NA,NA
+1339,Uruguay,Montevideo,NA,NA
+1340,Uruguay,Progreso,NA,NA
+1341,Uruguay,San Jose,NA,NA
+1342,Uruguay,Uruguay,NA,NA
+1343,US,America,NA,NA
+1344,US,Arizona,Arizona,NA
+1345,US,Arizona,Cochise County,NA
+1346,US,Arizona,Sonoita,NA
+1347,US,California,Adelaida District,Central Coast
+1348,US,California,Alexander Valley,Sonoma
+1349,US,California,Alta Mesa,Central Valley
+1350,US,California,Amador County,Sierra Foothills
+1351,US,California,Amador-Napa,California Other
+1352,US,California,Anderson Valley,NA
+1353,US,California,Antelope Valley of the California High Desert,South Coast
+1354,US,California,Arroyo Grande Valley,Central Coast
+1355,US,California,Arroyo Seco,Central Coast
+1356,US,California,Atlas Peak,Napa
+1357,US,California,Ballard Canyon,Central Coast
+1358,US,California,Ben Lomond Mountain,Central Coast
+1359,US,California,Bennett Valley,Sonoma
+1360,US,California,Big Valley District-Lake County,NA
+1361,US,California,Calaveras County,Sierra Foothills
+1362,US,California,California,California Other
+1363,US,California,California Other,NA
+1364,US,California,California-Oregon,NA
+1365,US,California,Calistoga,Napa
+1366,US,California,Capay Valley,Central Valley
+1367,US,California,Carmel Valley,Central Coast
+1368,US,California,Carneros,Napa-Sonoma
+1369,US,California,Carneros-Napa Valley,Napa
+1370,US,California,Central Coast,Central Coast
+1371,US,California,Central Coast,NA
+1372,US,California,Central Valley,NA
+1373,US,California,Chalk Hill,Sonoma
+1374,US,California,Chalone,Central Coast
+1375,US,California,Chiles Valley,Napa
+1376,US,California,Cienega Valley,Central Coast
+1377,US,California,Clarksburg,Central Valley
+1378,US,California,Clear Lake,NA
+1379,US,California,Clements Hills,Central Valley
+1380,US,California,Cole Ranch,NA
+1381,US,California,Contra Costa County,Central Coast
+1382,US,California,Coombsville,Napa
+1383,US,California,Cucamonga Valley,South Coast
+1384,US,California,Diamond Mountain District,Napa
+1385,US,California,Dry Creek Valley,Sonoma
+1386,US,California,Dunnigan Hills,Central Valley
+1387,US,California,Edna Valley,Central Coast
+1388,US,California,El Dorado,Sierra Foothills
+1389,US,California,El Dorado County,Sierra Foothills
+1390,US,California,El Pomar District,Central Coast
+1391,US,California,Fair Play,Sierra Foothills
+1392,US,California,Fiddletown,Sierra Foothills
+1393,US,California,Fort Ross-Seaview,Sonoma
+1394,US,California,Green Valley,Sonoma
+1395,US,California,Guenoc Valley,NA
+1396,US,California,Happy Canyon of Santa Barbara,Central Coast
+1397,US,California,High Valley,NA
+1398,US,California,Howell Mountain,Napa
+1399,US,California,Humboldt County,North Coast
+1400,US,California,Kelsey Bench-Lake County,NA
+1401,US,California,Knights Valley,Sonoma
+1402,US,California,Lake County,NA
+1403,US,California,Lake County-Mendocino County,NA
+1404,US,California,Lake County-Sonoma County,North Coast
+1405,US,California,Lake-Sonoma-Napa,North Coast
+1406,US,California,Lime Kiln Valley,Central Coast
+1407,US,California,Livermore Valley,Central Coast
+1408,US,California,Lodi,Central Valley
+1409,US,California,Los Carneros,Napa-Sonoma
+1410,US,California,Madera,Central Valley
+1411,US,California,Malibu Coast,South Coast
+1412,US,California,Malibu-Newton Canyon,South Coast
+1413,US,California,Marin County,North Coast
+1414,US,California,McDowell Valley,NA
+1415,US,California,Mendocino,NA
+1416,US,California,Mendocino County,NA
+1417,US,California,Mendocino Ridge,NA
+1418,US,California,Mendocino-Amador,California Other
+1419,US,California,Mendocino-Lake,North Coast
+1420,US,California,Mendocino-Lake County-Napa,North Coast
+1421,US,California,Mokelumne River,Central Valley
+1422,US,California,Monterey,Central Coast
+1423,US,California,Monterey County,Central Coast
+1424,US,California,Monterey County-Napa County,Central Coast
+1425,US,California,Monterey County-Napa County-Sonoma County,California Other
+1426,US,California,Monterey-San Luis Obispo-Santa Barbara,Central Coast
+1427,US,California,Monterey-Santa Barbara,Central Coast
+1428,US,California,Monterey-Santa Barbara-Sonoma,California Other
+1429,US,California,Monterey-Santa Cruz,Central Coast
+1430,US,California,Moon Mountain District Sonoma County,Sonoma
+1431,US,California,Mount Harlan,Central Coast
+1432,US,California,Mount Veeder,Napa
+1433,US,California,Mt. Harlan,Central Coast
+1434,US,California,Napa,NA
+1435,US,California,Napa County,Napa
+1436,US,California,Napa County-Lake County,North Coast
+1437,US,California,Napa County-Sonoma County,Napa-Sonoma
+1438,US,California,Napa County-Sonoma County-Lake County,North Coast
+1439,US,California,Napa County-Sonoma County-San Joaquin County,California Other
+1440,US,California,Napa Valley,Napa
+1441,US,California,Napa Valley-Paso Robles,California Other
+1442,US,California,Napa-Amador,California Other
+1443,US,California,Napa-Carneros,Napa
+1444,US,California,Napa-Mendocino-Sonoma,North Coast
+1445,US,California,Napa-Mendocino-Sonoma-Marin,North Coast
+1446,US,California,Napa-Monterey-Mendocino,NA
+1447,US,California,Napa-Sonoma,Napa-Sonoma
+1448,US,California,Napa-Sonoma,North Coast
+1449,US,California,Napa-Sonoma-Marin,North Coast
+1450,US,California,Nevada County,Sierra Foothills
+1451,US,California,North Coast,North Coast
+1452,US,California,North Coast,NA
+1453,US,California,Northern Sonoma,Sonoma
+1454,US,California,Oak Knoll District,Napa
+1455,US,California,Oakville,Napa
+1456,US,California,Paicines,Central Coast
+1457,US,California,Paso Robles,Central Coast
+1458,US,California,Paso Robles Highlands District,Central Coast
+1459,US,California,Paso Robles Willow Creek District,Central Coast
+1460,US,California,Pine Mountain-Cloverdale Peak,Sonoma
+1461,US,California,Placer County,Sierra Foothills
+1462,US,California,Potter Valley,NA
+1463,US,California,Ramona Valley,South Coast
+1464,US,California,Red Hills Lake County,NA
+1465,US,California,Redwood Valley,NA
+1466,US,California,River Junction,Central Valley
+1467,US,California,Rockpile,Sonoma
+1468,US,California,Russian River Valley,Sonoma
+1469,US,California,Rutherford,Napa
+1470,US,California,Saddle Rock-Malibu,South Coast
+1471,US,California,San Antonio Valley,Central Coast
+1472,US,California,San Benito County,Central Coast
+1473,US,California,San Bernabe,Central Coast
+1474,US,California,San Diego County,South Coast
+1475,US,California,San Francisco Bay,Central Coast
+1476,US,California,San Francisco Bay-Livermore Valley,Central Coast
+1477,US,California,San Lucas,Central Coast
+1478,US,California,San Luis Obispo,Central Coast
+1479,US,California,San Luis Obispo County,Central Coast
+1480,US,California,Santa Barbara,Central Coast
+1481,US,California,Santa Barbara County,Central Coast
+1482,US,California,Santa Barbara-Monterey,North Coast
+1483,US,California,Santa Clara County,Central Coast
+1484,US,California,Santa Clara Valley,Central Coast
+1485,US,California,Santa Cruz County,Central Coast
+1486,US,California,Santa Cruz Mountains,Central Coast
+1487,US,California,Santa Lucia Highlands,Central Coast
+1488,US,California,Santa Margarita Ranch,Central Coast
+1489,US,California,Santa Maria Valley,Central Coast
+1490,US,California,Santa Ynez Valley,Central Coast
+1491,US,California,Shenandoah Valley (CA),Sierra Foothills
+1492,US,California,Sierra Foothills,Sierra Foothills
+1493,US,California,Sierra Pelona Valley,South Coast
+1494,US,California,Solano County,North Coast
+1495,US,California,Solano County Green Valley,North Coast
+1496,US,California,Sonoma,Sonoma
+1497,US,California,Sonoma,NA
+1498,US,California,Sonoma Coast,Sonoma
+1499,US,California,Sonoma County,Sonoma
+1500,US,California,Sonoma County-Lake County,North Coast
+1501,US,California,Sonoma County-Monterey County,California Other
+1502,US,California,Sonoma County-Monterey County-Napa County,California Other
+1503,US,California,Sonoma County-Monterey County-Santa Barbara County,California Other
+1504,US,California,Sonoma County-Napa County,Napa-Sonoma
+1505,US,California,Sonoma County-San Joaquin County,California Other
+1506,US,California,Sonoma County-Santa Barbara County,California Other
+1507,US,California,Sonoma Mountain,Sonoma
+1508,US,California,Sonoma Valley,Sonoma
+1509,US,California,Sonoma-Mendocino,North Coast
+1510,US,California,Sonoma-Napa,Napa-Sonoma
+1511,US,California,Sonoma-Napa-Lake,North Coast
+1512,US,California,Sonoma-Napa-Mendocino,North Coast
+1513,US,California,Sonoma-Napa-Monterey,California Other
+1514,US,California,Sonoma-Santa Barbara-Mendocino,California Other
+1515,US,California,South Coast,South Coast
+1516,US,California,South Coast,NA
+1517,US,California,Spring Mountain District,Napa
+1518,US,California,St. Helena,Napa
+1519,US,California,Sta. Rita Hills,Central Coast
+1520,US,California,Stags Leap District,Napa
+1521,US,California,Suisun Valley,North Coast
+1522,US,California,Tehama County,California Other
+1523,US,California,Temecula,South Coast
+1524,US,California,Temecula Valley,South Coast
+1525,US,California,Templeton Gap District,Central Coast
+1526,US,California,Tuolumne County,Sierra Foothills
+1527,US,California,Ventura County,Central Coast
+1528,US,California,Yolo County,Central Valley
+1529,US,California,York Mountain,Central Coast
+1530,US,California,Yorkville Highlands,North Coast
+1531,US,California,Yountville,Napa
+1532,US,California,NA,NA
+1533,US,Colorado,Colorado,NA
+1534,US,Colorado,Grand Valley,NA
+1535,US,Connecticut,Western Connecticut Highlands,NA
+1536,US,Hawaii,Hawaii,NA
+1537,US,Idaho,Idaho,NA
+1538,US,Idaho,NA,NA
+1539,US,Illinois,Illinois,NA
+1540,US,Iowa,Iowa,NA
+1541,US,Kentucky,Kentucky,NA
+1542,US,Massachusetts,Massachusetts,NA
+1543,US,Massachusetts,Southeastern New England,NA
+1544,US,Michigan,Lake Michigan Shore,NA
+1545,US,Michigan,Leelanau Peninsula,NA
+1546,US,Michigan,Michigan,NA
+1547,US,Michigan,Old Mission Peninsula,NA
+1548,US,Missouri,Augusta,NA
+1549,US,Missouri,Missouri,NA
+1550,US,Nevada,Nevada,NA
+1551,US,New Jersey,New Jersey,NA
+1552,US,New Jersey,Outer Coastal Plain,NA
+1553,US,New Mexico,New Mexico,NA
+1554,US,New York,Cayuga Lake,Finger Lakes
+1555,US,New York,Finger Lakes,Finger Lakes
+1556,US,New York,Hudson River Region,New York Other
+1557,US,New York,Lake Erie,Finger Lakes
+1558,US,New York,Long Island,Long Island
+1559,US,New York,New York,New York Other
+1560,US,New York,Niagara Escarpment,New York Other
+1561,US,New York,North Fork of Long Island,Long Island
+1562,US,New York,Seneca Lake,Finger Lakes
+1563,US,New York,"The Hamptons, Long Island",Long Island
+1564,US,North Carolina,North Carolina,NA
+1565,US,North Carolina,Swan Creek,NA
+1566,US,North Carolina,Yadkin Valley,NA
+1567,US,Ohio,Grand River Valley,NA
+1568,US,Ohio,Isle St. George,NA
+1569,US,Ohio,Ohio,NA
+1570,US,Oregon,Applegate Valley,Southern Oregon
+1571,US,Oregon,Chehalem Mountains,Willamette Valley
+1572,US,Oregon,Columbia Gorge (OR),Oregon Other
+1573,US,Oregon,Columbia Valley (OR),Oregon Other
+1574,US,Oregon,Dundee Hills,Willamette Valley
+1575,US,Oregon,Elkton Oregon,Southern Oregon
+1576,US,Oregon,Eola-Amity Hills,Willamette Valley
+1577,US,Oregon,McMinnville,Willamette Valley
+1578,US,Oregon,Oregon,Oregon Other
+1579,US,Oregon,Oregon Other,NA
+1580,US,Oregon,Polk County,Oregon Other
+1581,US,Oregon,Ribbon Ridge,Willamette Valley
+1582,US,Oregon,Rogue Valley,Southern Oregon
+1583,US,Oregon,Southern Oregon,Southern Oregon
+1584,US,Oregon,Umpqua Valley,Southern Oregon
+1585,US,Oregon,Walla Walla Valley (OR),Oregon Other
+1586,US,Oregon,Willamette Valley,Willamette Valley
+1587,US,Oregon,Willamette Valley,NA
+1588,US,Oregon,Yamhill County,Willamette Valley
+1589,US,Oregon,NA,NA
+1590,US,Pennsylvania,Pennsylvania,NA
+1591,US,Rhode Island,Southeastern New England,NA
+1592,US,Texas,Texas,NA
+1593,US,Texas,Texas High Plains,NA
+1594,US,Texas,Texoma,NA
+1595,US,Texas,NA,NA
+1596,US,Vermont,Vermont,NA
+1597,US,Virginia,Middleburg,NA
+1598,US,Virginia,Monticello,NA
+1599,US,Virginia,Shenandoah Valley,NA
+1600,US,Virginia,Virginia,NA
+1601,US,Virginia,Virginia's Eastern Shore,NA
+1602,US,Washington,Ancient Lakes,Columbia Valley
+1603,US,Washington,Chelan County,Washington Other
+1604,US,Washington,Columbia Gorge (WA),Washington Other
+1605,US,Washington,Columbia Valley,NA
+1606,US,Washington,Columbia Valley (WA),Columbia Valley
+1607,US,Washington,Columbia Valley-Walla Walla Valley,Columbia Valley
+1608,US,Washington,Horse Heaven Hills,Columbia Valley
+1609,US,Washington,Lake Chelan,Columbia Valley
+1610,US,Washington,Naches Heights,Columbia Valley
+1611,US,Washington,Puget Sound,Washington Other
+1612,US,Washington,Rattlesnake Hills,Columbia Valley
+1613,US,Washington,Red Mountain,Columbia Valley
+1614,US,Washington,Snipes Mountain,Columbia Valley
+1615,US,Washington,Wahluke Slope,Columbia Valley
+1616,US,Washington,Walla Walla Valley (WA),Columbia Valley
+1617,US,Washington,Washington,Washington Other
+1618,US,Washington,Yakima Valley,Columbia Valley
+1619,US,Washington-Oregon,NA,NA
+1620,NA,NA,NA,NA
